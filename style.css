@@ -1,0 +1,49 @@
+.header {
+	text-align: center;
+	font-family: 'Fredoka One';
+	margin-bottom: 100px;
+	margin-top: 100px;	
+	background-color: yellow;
+	padding: 40px 0px;
+	width: 40%;	
+	margin-left: 425px;
+}
+
+.form {
+	text-align: center;
+	font-family: 'Arimo';
+}
+
+#gifs {
+	font-family: 'Arimo';
+	text-align: center;
+	
+}
+
+.topic {
+	font-size: 12px;
+	padding: 10px 24px;
+	background-color: #4CAF50;
+	border-radius: 12px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-family: 'Arimo';
+	font-weight: bold;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+
+#buttons {
+	margin-bottom: 50px;
+}
+
+#add-topic {
+	font-family: 'Arimo';
+	font-size: 16px;
+	background-color: blue;
+	border-radius: 12px;
+	padding: 3px 10px;
+}
+
+#topic-input {
+	padding: 8px 20px;
+}
