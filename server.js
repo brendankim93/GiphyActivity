@@ -2,7 +2,7 @@ var express = require("express");
 var path = require("path");
 
 var app = express();
-var PORT = 3900;
+var PORT = process.env.PORT || 3900;
 
 app.use("/assets", express.static(__dirname + '/assets'));
 
